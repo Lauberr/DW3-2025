@@ -1,0 +1,25 @@
+{
+  "name": "aulanode",
+  "version": "1.0.0",
+  "description": "Introducao ao Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lauberr/DW3-2025.git"
+  },
+  "keywords": [
+    "jambinha"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lauberr/livraria_backend/issues"
+  },
+  "homepage": "https://github.com/Lauberr/livraria_backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
